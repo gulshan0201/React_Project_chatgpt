@@ -10,7 +10,7 @@ function App() {
       </div>
 
       <div className='col-span-4 p-10'>
-        <div className="container h-120">
+        <div className="container h-110">
 
         </div>
         
